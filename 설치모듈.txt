@@ -1,0 +1,25 @@
+--------------------설치 모듈-------------------
+
+import 모듈
+
+
+from PyQt5.QtCore import *
+from PyQt5.QtGui import *
+from PyQt5.QtWidgets import * //ptqt5 
+from threading import Thread //처리 속도 및 충돌 방지를 위한 멀티스레딩
+import speech_recognition as sr // STT
+from gtts import gTTS //TTS
+import cv2 //opencv
+import time
+from pyfirmata import Arduino, util//아두이노와 시리얼 통신
+import sys
+import numpy as np//연산
+from os import listdir
+from os.path import isfile, join
+from PIL import Image
+import pytesseract//OCR을 위한 테서렉트
+import os
+import cvlib as cv//물체 인식
+from cvlib.object_detection import draw_bbox//물체 인식
+import pyautogui//메세지 박스 간단 생성
+import ctypes//메세지 박스 간단 생성
