@@ -1,8 +1,5 @@
-
-# PyQT OCR and Face and Object Detection Project 
-
-Qt에서 작동하는 실시간 얼굴인식 및 물체 객체 검출과 OCR(광학식 문자 판독)  
-다양한 인식 알고리즘들을 각 버튼으로 제어 할 수 있는 프로젝트 
+# PyQT OCR and Face and Object Detection Project   
+Qt에서 작동하는 실시간 얼굴인식 및 물체 객체 검출과 OCR(광학식 문자 판독)</br> 인식 알고리즘들을 각 버튼으로 제어 할 수 있는 프로젝트 
 ---
 
 * #### 💡 구동 환경
